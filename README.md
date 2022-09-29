@@ -11,4 +11,4 @@
 - Transparencias 
 
 ### Link en Netlify para visualizar el proyecto:
-[Proyecto Servicios Jesus Burgos](http://https://jesusburgos-portafolio.netlify.app/ "Proyecto Servicios Jesus Burgos")
+[Proyecto Servicios Jesus Burgos](http://jesusburgos-portafolio.netlify.app/ "Proyecto Servicios Jesus Burgos")
