@@ -9,3 +9,6 @@
 - CSS media queries
 - Uso de formularios
 - Transparencias 
+
+### Link en Netlify para visualizar el proyecto:
+[Proyecto Servicios Jesus Burgos](http://https://jesusburgos-portafolio.netlify.app/ "Proyecto Servicios Jesus Burgos")
